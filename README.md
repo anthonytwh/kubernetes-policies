@@ -1,3 +1,3 @@
-# kubernetes-policies
+# kubernetes yaml files
 
-Default Kubernetes Policies in yaml for networking.k8s.io/v1
+General yaml files for kubernetes.
